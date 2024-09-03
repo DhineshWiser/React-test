@@ -1,6 +1,15 @@
 .App {
   text-align: center;
 }
+.text{
+  font-size: 40px;
+}
+.buttons{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 
 .App-logo {
   height: 40vmin;
